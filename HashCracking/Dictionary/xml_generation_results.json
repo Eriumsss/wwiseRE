@@ -1,0 +1,2773 @@
+{
+  "stats": {
+    "success": 313,
+    "skipped": 0,
+    "failed": 0,
+    "error": 0,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Ambience\\85412153\\85412153.bnk",
+      "category": "root",
+      "bank_name": "Ambience",
+      "bank_id": "85412153",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Ambience\\85412153\\85412153.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\BaseCombat\\3503657562\\3503657562.bnk",
+      "category": "root",
+      "bank_name": "BaseCombat",
+      "bank_id": "3503657562",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\BaseCombat\\3503657562\\3503657562.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\2713084640\\2713084640.bnk",
+      "category": "root",
+      "bank_name": "Creatures",
+      "bank_id": "2713084640",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\2713084640\\2713084640.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\2798241415\\2798241415.bnk",
+      "category": "root",
+      "bank_name": "Creatures",
+      "bank_id": "2798241415",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\2798241415\\2798241415.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\3452653517\\3452653517.bnk",
+      "category": "root",
+      "bank_name": "Creatures",
+      "bank_id": "3452653517",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\3452653517\\3452653517.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\3567116701\\3567116701.bnk",
+      "category": "root",
+      "bank_name": "Creatures",
+      "bank_id": "3567116701",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\3567116701\\3567116701.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\4222676942\\4222676942.bnk",
+      "category": "root",
+      "bank_name": "Creatures",
+      "bank_id": "4222676942",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\4222676942\\4222676942.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\975722735\\975722735.bnk",
+      "category": "root",
+      "bank_name": "Creatures",
+      "bank_id": "975722735",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Creatures\\975722735\\975722735.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\164095351\\164095351.bnk",
+      "category": "root",
+      "bank_name": "Effects",
+      "bank_id": "164095351",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\164095351\\164095351.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\1942696649\\1942696649.bnk",
+      "category": "root",
+      "bank_name": "Effects",
+      "bank_id": "1942696649",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\1942696649\\1942696649.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\2177926797\\2177926797.bnk",
+      "category": "root",
+      "bank_name": "Effects",
+      "bank_id": "2177926797",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\2177926797\\2177926797.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\2532441961\\2532441961.bnk",
+      "category": "root",
+      "bank_name": "Effects",
+      "bank_id": "2532441961",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\2532441961\\2532441961.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\2798241415\\2798241415.bnk",
+      "category": "root",
+      "bank_name": "Effects",
+      "bank_id": "2798241415",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\2798241415\\2798241415.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\3309206939\\3309206939.bnk",
+      "category": "root",
+      "bank_name": "Effects",
+      "bank_id": "3309206939",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\3309206939\\3309206939.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\3452653517\\3452653517.bnk",
+      "category": "root",
+      "bank_name": "Effects",
+      "bank_id": "3452653517",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Effects\\3452653517\\3452653517.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroAragorn\\3524329371\\3524329371.bnk",
+      "category": "root",
+      "bank_name": "HeroAragorn",
+      "bank_id": "3524329371",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroAragorn\\3524329371\\3524329371.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroElrond\\4157642125\\4157642125.bnk",
+      "category": "root",
+      "bank_name": "HeroElrond",
+      "bank_id": "4157642125",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroElrond\\4157642125\\4157642125.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroFrodo\\2831547475\\2831547475.bnk",
+      "category": "root",
+      "bank_name": "HeroFrodo",
+      "bank_id": "2831547475",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroFrodo\\2831547475\\2831547475.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroGandalf\\3112447238\\3112447238.bnk",
+      "category": "root",
+      "bank_name": "HeroGandalf",
+      "bank_id": "3112447238",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroGandalf\\3112447238\\3112447238.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroGimli\\1492605871\\1492605871.bnk",
+      "category": "root",
+      "bank_name": "HeroGimli",
+      "bank_id": "1492605871",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroGimli\\1492605871\\1492605871.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroIsildur\\3059335535\\3059335535.bnk",
+      "category": "root",
+      "bank_name": "HeroIsildur",
+      "bank_id": "3059335535",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroIsildur\\3059335535\\3059335535.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroLegolas\\2317768486\\2317768486.bnk",
+      "category": "root",
+      "bank_name": "HeroLegolas",
+      "bank_id": "2317768486",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroLegolas\\2317768486\\2317768486.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroLurtz\\1546946028\\1546946028.bnk",
+      "category": "root",
+      "bank_name": "HeroLurtz",
+      "bank_id": "1546946028",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroLurtz\\1546946028\\1546946028.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroMouth\\3700520206\\3700520206.bnk",
+      "category": "root",
+      "bank_name": "HeroMouth",
+      "bank_id": "3700520206",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroMouth\\3700520206\\3700520206.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroNazgul\\1141569628\\1141569628.bnk",
+      "category": "root",
+      "bank_name": "HeroNazgul",
+      "bank_id": "1141569628",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroNazgul\\1141569628\\1141569628.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroSaruman\\1900836802\\1900836802.bnk",
+      "category": "root",
+      "bank_name": "HeroSaruman",
+      "bank_id": "1900836802",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroSaruman\\1900836802\\1900836802.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroSauron\\2927614651\\2927614651.bnk",
+      "category": "root",
+      "bank_name": "HeroSauron",
+      "bank_id": "2927614651",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroSauron\\2927614651\\2927614651.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroWitchKing\\411571583\\411571583.bnk",
+      "category": "root",
+      "bank_name": "HeroWitchKing",
+      "bank_id": "411571583",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroWitchKing\\411571583\\411571583.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroWormtongue\\864989040\\864989040.bnk",
+      "category": "root",
+      "bank_name": "HeroWormtongue",
+      "bank_id": "864989040",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\HeroWormtongue\\864989040\\864989040.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_BlackGates\\3284272151\\3284272151.bnk",
+      "category": "root",
+      "bank_name": "Level_BlackGates",
+      "bank_id": "3284272151",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_BlackGates\\3284272151\\3284272151.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_HelmsDeep\\1840950901\\1840950901.bnk",
+      "category": "root",
+      "bank_name": "Level_HelmsDeep",
+      "bank_id": "1840950901",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_HelmsDeep\\1840950901\\1840950901.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Isengard\\2511487715\\2511487715.bnk",
+      "category": "root",
+      "bank_name": "Level_Isengard",
+      "bank_id": "2511487715",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Isengard\\2511487715\\2511487715.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_MinasMorg\\3010301765\\3010301765.bnk",
+      "category": "root",
+      "bank_name": "Level_MinasMorg",
+      "bank_id": "3010301765",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_MinasMorg\\3010301765\\3010301765.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_MinasTir\\436016369\\436016369.bnk",
+      "category": "root",
+      "bank_name": "Level_MinasTir",
+      "bank_id": "436016369",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_MinasTir\\436016369\\436016369.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Moria\\2775270116\\2775270116.bnk",
+      "category": "root",
+      "bank_name": "Level_Moria",
+      "bank_id": "2775270116",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Moria\\2775270116\\2775270116.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Osgiliath\\3948208292\\3948208292.bnk",
+      "category": "root",
+      "bank_name": "Level_Osgiliath",
+      "bank_id": "3948208292",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Osgiliath\\3948208292\\3948208292.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Pelennor\\975722735\\975722735.bnk",
+      "category": "root",
+      "bank_name": "Level_Pelennor",
+      "bank_id": "975722735",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Pelennor\\975722735\\975722735.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Rivendell\\434439107\\434439107.bnk",
+      "category": "root",
+      "bank_name": "Level_Rivendell",
+      "bank_id": "434439107",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Rivendell\\434439107\\434439107.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Shire\\1148930993\\1148930993.bnk",
+      "category": "root",
+      "bank_name": "Level_Shire",
+      "bank_id": "1148930993",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Shire\\1148930993\\1148930993.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Trng\\2647849451\\2647849451.bnk",
+      "category": "root",
+      "bank_name": "Level_Trng",
+      "bank_id": "2647849451",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Trng\\2647849451\\2647849451.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Weathertop\\2943686885\\2943686885.bnk",
+      "category": "root",
+      "bank_name": "Level_Weathertop",
+      "bank_id": "2943686885",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Level_Weathertop\\2943686885\\2943686885.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Music\\3991942870\\3991942870.bnk",
+      "category": "root",
+      "bank_name": "Music",
+      "bank_id": "3991942870",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\Music\\3991942870\\3991942870.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXBallista\\2713084640\\2713084640.bnk",
+      "category": "root",
+      "bank_name": "SFXBallista",
+      "bank_id": "2713084640",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXBallista\\2713084640\\2713084640.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXBalrog\\2532441961\\2532441961.bnk",
+      "category": "root",
+      "bank_name": "SFXBalrog",
+      "bank_id": "2532441961",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXBalrog\\2532441961\\2532441961.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXBatteringRam\\3717702568\\3717702568.bnk",
+      "category": "root",
+      "bank_name": "SFXBatteringRam",
+      "bank_id": "3717702568",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXBatteringRam\\3717702568\\3717702568.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXCatapult\\556881898\\556881898.bnk",
+      "category": "root",
+      "bank_name": "SFXCatapult",
+      "bank_id": "556881898",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXCatapult\\556881898\\556881898.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXEagle\\1291842730\\1291842730.bnk",
+      "category": "root",
+      "bank_name": "SFXEagle",
+      "bank_id": "1291842730",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXEagle\\1291842730\\1291842730.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXEnt\\3452653517\\3452653517.bnk",
+      "category": "root",
+      "bank_name": "SFXEnt",
+      "bank_id": "3452653517",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXEnt\\3452653517\\3452653517.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXFellBeast\\1663927818\\1663927818.bnk",
+      "category": "root",
+      "bank_name": "SFXFellBeast",
+      "bank_id": "1663927818",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXFellBeast\\1663927818\\1663927818.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXHorse\\2177926797\\2177926797.bnk",
+      "category": "root",
+      "bank_name": "SFXHorse",
+      "bank_id": "2177926797",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXHorse\\2177926797\\2177926797.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXOliphant\\3309206939\\3309206939.bnk",
+      "category": "root",
+      "bank_name": "SFXOliphant",
+      "bank_id": "3309206939",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXOliphant\\3309206939\\3309206939.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXSiegeTower\\4222676942\\4222676942.bnk",
+      "category": "root",
+      "bank_name": "SFXSiegeTower",
+      "bank_id": "4222676942",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXSiegeTower\\4222676942\\4222676942.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXTroll\\2798241415\\2798241415.bnk",
+      "category": "root",
+      "bank_name": "SFXTroll",
+      "bank_id": "2798241415",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXTroll\\2798241415\\2798241415.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXWarg\\164095351\\164095351.bnk",
+      "category": "root",
+      "bank_name": "SFXWarg",
+      "bank_id": "164095351",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\SFXWarg\\164095351\\164095351.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\UI\\1551306167\\1551306167.bnk",
+      "category": "root",
+      "bank_name": "UI",
+      "bank_id": "1551306167",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\root\\UI\\1551306167\\1551306167.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterElf\\4213940363\\4213940363.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterElf",
+      "bank_id": "4213940363",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterElf\\4213940363\\4213940363.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterEvilHuman\\3664300569\\3664300569.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterEvilHuman",
+      "bank_id": "3664300569",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterEvilHuman\\3664300569\\3664300569.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterGondor\\1449891919\\1449891919.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterGondor",
+      "bank_id": "1449891919",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterGondor\\1449891919\\1449891919.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroAragorn\\871361464\\871361464.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroAragorn",
+      "bank_id": "871361464",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroAragorn\\871361464\\871361464.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroBalrog\\23438015\\23438015.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroBalrog",
+      "bank_id": "23438015",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroBalrog\\23438015\\23438015.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroElrond\\2629227852\\2629227852.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroElrond",
+      "bank_id": "2629227852",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroElrond\\2629227852\\2629227852.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroEowyn\\1139077918\\1139077918.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroEowyn",
+      "bank_id": "1139077918",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroEowyn\\1139077918\\1139077918.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2647976406",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroFaramir\\1580398204\\1580398204.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroFaramir",
+      "bank_id": "1580398204",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroFaramir\\1580398204\\1580398204.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroGandalf\\3836382201\\3836382201.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroGandalf",
+      "bank_id": "3836382201",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroGandalf\\3836382201\\3836382201.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroGimli\\3994356840\\3994356840.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroGimli",
+      "bank_id": "3994356840",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroGimli\\3994356840\\3994356840.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroGothmog\\2061718309\\2061718309.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroGothmog",
+      "bank_id": "2061718309",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroGothmog\\2061718309\\2061718309.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroLegolas\\4264085541\\4264085541.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroLegolas",
+      "bank_id": "4264085541",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroLegolas\\4264085541\\4264085541.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroLurtz\\2242630235\\2242630235.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroLurtz",
+      "bank_id": "2242630235",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroLurtz\\2242630235\\2242630235.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroMouth\\1468448805\\1468448805.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroMouth",
+      "bank_id": "1468448805",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroMouth\\1468448805\\1468448805.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroNazgul\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroNazgul",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroNazgul\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroSaruman\\811240109\\811240109.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroSaruman",
+      "bank_id": "811240109",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroSaruman\\811240109\\811240109.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroSauron\\38771874\\38771874.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroSauron",
+      "bank_id": "38771874",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroSauron\\38771874\\38771874.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroTheoden\\2317841293\\2317841293.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroTheoden",
+      "bank_id": "2317841293",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroTheoden\\2317841293\\2317841293.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroWitchKing",
+      "bank_id": "2793186020",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHeroWormtongue",
+      "bank_id": "3921213553",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHobbit\\3171699836\\3171699836.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterHobbit",
+      "bank_id": "3171699836",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterHobbit\\3171699836\\3171699836.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterOrc\\3712186106\\3712186106.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterOrc",
+      "bank_id": "3712186106",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterOrc\\3712186106\\3712186106.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterRohan\\702631914\\702631914.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterRohan",
+      "bank_id": "702631914",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterRohan\\702631914\\702631914.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterUruk\\3202456073\\3202456073.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "ChatterUruk",
+      "bank_id": "3202456073",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\ChatterUruk\\3202456073\\3202456073.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\Level_MountDoom\\1294560980\\1294560980.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "1294560980",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\Level_MountDoom\\1294560980\\1294560980.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\Level_MountDoom\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\Level_MountDoom\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VoiceOver\\4041657371\\4041657371.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VoiceOver",
+      "bank_id": "4041657371",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VoiceOver\\4041657371\\4041657371.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_BlackGates\\3294868892\\3294868892.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_BlackGates",
+      "bank_id": "3294868892",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_BlackGates\\3294868892\\3294868892.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_HelmsDeep\\3309576832\\3309576832.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_HelmsDeep",
+      "bank_id": "3309576832",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_HelmsDeep\\3309576832\\3309576832.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Isengard\\3816387472\\3816387472.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_Isengard",
+      "bank_id": "3816387472",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Isengard\\3816387472\\3816387472.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_MinasMorg\\3497672732\\3497672732.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_MinasMorg",
+      "bank_id": "3497672732",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_MinasMorg\\3497672732\\3497672732.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_MinasTir\\1868043562\\1868043562.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_MinasTir",
+      "bank_id": "1868043562",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_MinasTir\\1868043562\\1868043562.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Moria\\2854391945\\2854391945.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_Moria",
+      "bank_id": "2854391945",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Moria\\2854391945\\2854391945.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_MountDoom\\2316267673\\2316267673.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_MountDoom",
+      "bank_id": "2316267673",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_MountDoom\\2316267673\\2316267673.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Osgiliath\\42175133\\42175133.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_Osgiliath",
+      "bank_id": "42175133",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Osgiliath\\42175133\\42175133.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Pelennor\\1007412724\\1007412724.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_Pelennor",
+      "bank_id": "1007412724",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Pelennor\\1007412724\\1007412724.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Rivendell\\42613634\\42613634.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_Rivendell",
+      "bank_id": "42613634",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Rivendell\\42613634\\42613634.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Shire\\2947837516\\2947837516.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_Shire",
+      "bank_id": "2947837516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Shire\\2947837516\\2947837516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Trng\\371830516\\371830516.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_Trng",
+      "bank_id": "371830516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Trng\\371830516\\371830516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Weathertop\\2840916394\\2840916394.bnk",
+      "category": "language",
+      "language": "english_us_",
+      "bank_name": "VO_Weathertop",
+      "bank_id": "2840916394",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\english_us_\\VO_Weathertop\\2840916394\\2840916394.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterElf\\4213940363\\4213940363.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterElf",
+      "bank_id": "4213940363",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterElf\\4213940363\\4213940363.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterEvilHuman\\3664300569\\3664300569.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterEvilHuman",
+      "bank_id": "3664300569",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterEvilHuman\\3664300569\\3664300569.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterGondor\\1449891919\\1449891919.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterGondor",
+      "bank_id": "1449891919",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterGondor\\1449891919\\1449891919.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroAragorn\\871361464\\871361464.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroAragorn",
+      "bank_id": "871361464",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroAragorn\\871361464\\871361464.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroBalrog\\23438015\\23438015.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroBalrog",
+      "bank_id": "23438015",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroBalrog\\23438015\\23438015.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroElrond\\2629227852\\2629227852.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroElrond",
+      "bank_id": "2629227852",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroElrond\\2629227852\\2629227852.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroEowyn\\1139077918\\1139077918.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroEowyn",
+      "bank_id": "1139077918",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroEowyn\\1139077918\\1139077918.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2647976406",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroFaramir\\1580398204\\1580398204.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroFaramir",
+      "bank_id": "1580398204",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroFaramir\\1580398204\\1580398204.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroGandalf\\3836382201\\3836382201.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroGandalf",
+      "bank_id": "3836382201",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroGandalf\\3836382201\\3836382201.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroGimli\\3994356840\\3994356840.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroGimli",
+      "bank_id": "3994356840",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroGimli\\3994356840\\3994356840.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroGothmog\\2061718309\\2061718309.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroGothmog",
+      "bank_id": "2061718309",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroGothmog\\2061718309\\2061718309.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroLegolas\\4264085541\\4264085541.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroLegolas",
+      "bank_id": "4264085541",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroLegolas\\4264085541\\4264085541.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroLurtz\\2242630235\\2242630235.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroLurtz",
+      "bank_id": "2242630235",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroLurtz\\2242630235\\2242630235.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroMouth\\1468448805\\1468448805.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroMouth",
+      "bank_id": "1468448805",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroMouth\\1468448805\\1468448805.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroNazgul\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroNazgul",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroNazgul\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroSaruman\\811240109\\811240109.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroSaruman",
+      "bank_id": "811240109",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroSaruman\\811240109\\811240109.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroSauron\\38771874\\38771874.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroSauron",
+      "bank_id": "38771874",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroSauron\\38771874\\38771874.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroTheoden\\2317841293\\2317841293.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroTheoden",
+      "bank_id": "2317841293",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroTheoden\\2317841293\\2317841293.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroWitchKing",
+      "bank_id": "2793186020",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHeroWormtongue",
+      "bank_id": "3921213553",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHobbit\\3171699836\\3171699836.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterHobbit",
+      "bank_id": "3171699836",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterHobbit\\3171699836\\3171699836.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterOrc\\3712186106\\3712186106.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterOrc",
+      "bank_id": "3712186106",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterOrc\\3712186106\\3712186106.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterRohan\\702631914\\702631914.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterRohan",
+      "bank_id": "702631914",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterRohan\\702631914\\702631914.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterUruk\\3202456073\\3202456073.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "ChatterUruk",
+      "bank_id": "3202456073",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\ChatterUruk\\3202456073\\3202456073.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\Level_MountDoom\\1294560980\\1294560980.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "1294560980",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\Level_MountDoom\\1294560980\\1294560980.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\Level_MountDoom\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\Level_MountDoom\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VoiceOver\\4041657371\\4041657371.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VoiceOver",
+      "bank_id": "4041657371",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VoiceOver\\4041657371\\4041657371.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_BlackGates\\3294868892\\3294868892.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_BlackGates",
+      "bank_id": "3294868892",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_BlackGates\\3294868892\\3294868892.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_HelmsDeep\\3309576832\\3309576832.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_HelmsDeep",
+      "bank_id": "3309576832",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_HelmsDeep\\3309576832\\3309576832.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Isengard\\3816387472\\3816387472.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_Isengard",
+      "bank_id": "3816387472",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Isengard\\3816387472\\3816387472.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_MinasMorg\\3497672732\\3497672732.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_MinasMorg",
+      "bank_id": "3497672732",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_MinasMorg\\3497672732\\3497672732.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_MinasTir\\1868043562\\1868043562.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_MinasTir",
+      "bank_id": "1868043562",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_MinasTir\\1868043562\\1868043562.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Moria\\2854391945\\2854391945.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_Moria",
+      "bank_id": "2854391945",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Moria\\2854391945\\2854391945.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_MountDoom\\2316267673\\2316267673.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_MountDoom",
+      "bank_id": "2316267673",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_MountDoom\\2316267673\\2316267673.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Osgiliath\\42175133\\42175133.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_Osgiliath",
+      "bank_id": "42175133",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Osgiliath\\42175133\\42175133.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Pelennor\\1007412724\\1007412724.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_Pelennor",
+      "bank_id": "1007412724",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Pelennor\\1007412724\\1007412724.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Rivendell\\42613634\\42613634.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_Rivendell",
+      "bank_id": "42613634",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Rivendell\\42613634\\42613634.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Shire\\2947837516\\2947837516.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_Shire",
+      "bank_id": "2947837516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Shire\\2947837516\\2947837516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Trng\\371830516\\371830516.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_Trng",
+      "bank_id": "371830516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Trng\\371830516\\371830516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Weathertop\\2840916394\\2840916394.bnk",
+      "category": "language",
+      "language": "french_france_",
+      "bank_name": "VO_Weathertop",
+      "bank_id": "2840916394",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\french_france_\\VO_Weathertop\\2840916394\\2840916394.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterElf\\4213940363\\4213940363.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterElf",
+      "bank_id": "4213940363",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterElf\\4213940363\\4213940363.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterEvilHuman\\3664300569\\3664300569.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterEvilHuman",
+      "bank_id": "3664300569",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterEvilHuman\\3664300569\\3664300569.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterGondor\\1449891919\\1449891919.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterGondor",
+      "bank_id": "1449891919",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterGondor\\1449891919\\1449891919.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroAragorn\\871361464\\871361464.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroAragorn",
+      "bank_id": "871361464",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroAragorn\\871361464\\871361464.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroBalrog\\23438015\\23438015.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroBalrog",
+      "bank_id": "23438015",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroBalrog\\23438015\\23438015.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroElrond\\2629227852\\2629227852.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroElrond",
+      "bank_id": "2629227852",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroElrond\\2629227852\\2629227852.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroEowyn\\1139077918\\1139077918.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroEowyn",
+      "bank_id": "1139077918",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroEowyn\\1139077918\\1139077918.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2647976406",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroFaramir\\1580398204\\1580398204.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroFaramir",
+      "bank_id": "1580398204",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroFaramir\\1580398204\\1580398204.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroGandalf\\3836382201\\3836382201.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroGandalf",
+      "bank_id": "3836382201",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroGandalf\\3836382201\\3836382201.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroGimli\\3994356840\\3994356840.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroGimli",
+      "bank_id": "3994356840",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroGimli\\3994356840\\3994356840.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroGothmog\\2061718309\\2061718309.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroGothmog",
+      "bank_id": "2061718309",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroGothmog\\2061718309\\2061718309.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroLegolas\\4264085541\\4264085541.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroLegolas",
+      "bank_id": "4264085541",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroLegolas\\4264085541\\4264085541.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroLurtz\\2242630235\\2242630235.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroLurtz",
+      "bank_id": "2242630235",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroLurtz\\2242630235\\2242630235.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroMouth\\1468448805\\1468448805.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroMouth",
+      "bank_id": "1468448805",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroMouth\\1468448805\\1468448805.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroNazgul\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroNazgul",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroNazgul\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroSaruman\\811240109\\811240109.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroSaruman",
+      "bank_id": "811240109",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroSaruman\\811240109\\811240109.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroSauron\\38771874\\38771874.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroSauron",
+      "bank_id": "38771874",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroSauron\\38771874\\38771874.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroTheoden\\2317841293\\2317841293.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroTheoden",
+      "bank_id": "2317841293",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroTheoden\\2317841293\\2317841293.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroWitchKing",
+      "bank_id": "2793186020",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHeroWormtongue",
+      "bank_id": "3921213553",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHobbit\\3171699836\\3171699836.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterHobbit",
+      "bank_id": "3171699836",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterHobbit\\3171699836\\3171699836.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterOrc\\3712186106\\3712186106.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterOrc",
+      "bank_id": "3712186106",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterOrc\\3712186106\\3712186106.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterRohan\\702631914\\702631914.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterRohan",
+      "bank_id": "702631914",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterRohan\\702631914\\702631914.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterUruk\\3202456073\\3202456073.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "ChatterUruk",
+      "bank_id": "3202456073",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\ChatterUruk\\3202456073\\3202456073.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\Level_MountDoom\\1294560980\\1294560980.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "1294560980",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\Level_MountDoom\\1294560980\\1294560980.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\Level_MountDoom\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\Level_MountDoom\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VoiceOver\\4041657371\\4041657371.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VoiceOver",
+      "bank_id": "4041657371",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VoiceOver\\4041657371\\4041657371.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_BlackGates\\3294868892\\3294868892.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_BlackGates",
+      "bank_id": "3294868892",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_BlackGates\\3294868892\\3294868892.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_HelmsDeep\\3309576832\\3309576832.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_HelmsDeep",
+      "bank_id": "3309576832",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_HelmsDeep\\3309576832\\3309576832.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Isengard\\3816387472\\3816387472.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_Isengard",
+      "bank_id": "3816387472",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Isengard\\3816387472\\3816387472.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_MinasMorg\\3497672732\\3497672732.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_MinasMorg",
+      "bank_id": "3497672732",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_MinasMorg\\3497672732\\3497672732.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_MinasTir\\1868043562\\1868043562.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_MinasTir",
+      "bank_id": "1868043562",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_MinasTir\\1868043562\\1868043562.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Moria\\2854391945\\2854391945.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_Moria",
+      "bank_id": "2854391945",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Moria\\2854391945\\2854391945.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_MountDoom\\2316267673\\2316267673.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_MountDoom",
+      "bank_id": "2316267673",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_MountDoom\\2316267673\\2316267673.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Osgiliath\\42175133\\42175133.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_Osgiliath",
+      "bank_id": "42175133",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Osgiliath\\42175133\\42175133.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Pelennor\\1007412724\\1007412724.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_Pelennor",
+      "bank_id": "1007412724",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Pelennor\\1007412724\\1007412724.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Rivendell\\42613634\\42613634.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_Rivendell",
+      "bank_id": "42613634",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Rivendell\\42613634\\42613634.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Shire\\2947837516\\2947837516.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_Shire",
+      "bank_id": "2947837516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Shire\\2947837516\\2947837516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Trng\\371830516\\371830516.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_Trng",
+      "bank_id": "371830516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Trng\\371830516\\371830516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Weathertop\\2840916394\\2840916394.bnk",
+      "category": "language",
+      "language": "german",
+      "bank_name": "VO_Weathertop",
+      "bank_id": "2840916394",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\german\\VO_Weathertop\\2840916394\\2840916394.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterElf\\4213940363\\4213940363.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterElf",
+      "bank_id": "4213940363",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterElf\\4213940363\\4213940363.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterEvilHuman\\3664300569\\3664300569.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterEvilHuman",
+      "bank_id": "3664300569",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterEvilHuman\\3664300569\\3664300569.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterGondor\\1449891919\\1449891919.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterGondor",
+      "bank_id": "1449891919",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterGondor\\1449891919\\1449891919.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroAragorn\\871361464\\871361464.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroAragorn",
+      "bank_id": "871361464",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroAragorn\\871361464\\871361464.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroBalrog\\23438015\\23438015.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroBalrog",
+      "bank_id": "23438015",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroBalrog\\23438015\\23438015.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroElrond\\2629227852\\2629227852.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroElrond",
+      "bank_id": "2629227852",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroElrond\\2629227852\\2629227852.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroEowyn\\1139077918\\1139077918.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroEowyn",
+      "bank_id": "1139077918",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroEowyn\\1139077918\\1139077918.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2647976406",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroFaramir\\1580398204\\1580398204.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroFaramir",
+      "bank_id": "1580398204",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroFaramir\\1580398204\\1580398204.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroGandalf\\3836382201\\3836382201.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroGandalf",
+      "bank_id": "3836382201",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroGandalf\\3836382201\\3836382201.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroGimli\\3994356840\\3994356840.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroGimli",
+      "bank_id": "3994356840",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroGimli\\3994356840\\3994356840.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroGothmog\\2061718309\\2061718309.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroGothmog",
+      "bank_id": "2061718309",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroGothmog\\2061718309\\2061718309.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroLegolas\\4264085541\\4264085541.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroLegolas",
+      "bank_id": "4264085541",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroLegolas\\4264085541\\4264085541.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroLurtz\\2242630235\\2242630235.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroLurtz",
+      "bank_id": "2242630235",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroLurtz\\2242630235\\2242630235.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroMouth\\1468448805\\1468448805.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroMouth",
+      "bank_id": "1468448805",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroMouth\\1468448805\\1468448805.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroNazgul\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroNazgul",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroNazgul\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroSaruman\\811240109\\811240109.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroSaruman",
+      "bank_id": "811240109",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroSaruman\\811240109\\811240109.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroSauron\\38771874\\38771874.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroSauron",
+      "bank_id": "38771874",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroSauron\\38771874\\38771874.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroTheoden\\2317841293\\2317841293.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroTheoden",
+      "bank_id": "2317841293",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroTheoden\\2317841293\\2317841293.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroWitchKing",
+      "bank_id": "2793186020",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHeroWormtongue",
+      "bank_id": "3921213553",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHobbit\\3171699836\\3171699836.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterHobbit",
+      "bank_id": "3171699836",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterHobbit\\3171699836\\3171699836.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterOrc\\3712186106\\3712186106.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterOrc",
+      "bank_id": "3712186106",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterOrc\\3712186106\\3712186106.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterRohan\\702631914\\702631914.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterRohan",
+      "bank_id": "702631914",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterRohan\\702631914\\702631914.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterUruk\\3202456073\\3202456073.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "ChatterUruk",
+      "bank_id": "3202456073",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\ChatterUruk\\3202456073\\3202456073.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\Level_MountDoom\\1294560980\\1294560980.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "1294560980",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\Level_MountDoom\\1294560980\\1294560980.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\Level_MountDoom\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\Level_MountDoom\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VoiceOver\\4041657371\\4041657371.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VoiceOver",
+      "bank_id": "4041657371",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VoiceOver\\4041657371\\4041657371.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_BlackGates\\3294868892\\3294868892.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_BlackGates",
+      "bank_id": "3294868892",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_BlackGates\\3294868892\\3294868892.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_HelmsDeep\\3309576832\\3309576832.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_HelmsDeep",
+      "bank_id": "3309576832",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_HelmsDeep\\3309576832\\3309576832.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Isengard\\3816387472\\3816387472.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_Isengard",
+      "bank_id": "3816387472",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Isengard\\3816387472\\3816387472.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_MinasMorg\\3497672732\\3497672732.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_MinasMorg",
+      "bank_id": "3497672732",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_MinasMorg\\3497672732\\3497672732.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_MinasTir\\1868043562\\1868043562.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_MinasTir",
+      "bank_id": "1868043562",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_MinasTir\\1868043562\\1868043562.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Moria\\2854391945\\2854391945.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_Moria",
+      "bank_id": "2854391945",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Moria\\2854391945\\2854391945.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_MountDoom\\2316267673\\2316267673.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_MountDoom",
+      "bank_id": "2316267673",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_MountDoom\\2316267673\\2316267673.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Osgiliath\\42175133\\42175133.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_Osgiliath",
+      "bank_id": "42175133",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Osgiliath\\42175133\\42175133.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Pelennor\\1007412724\\1007412724.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_Pelennor",
+      "bank_id": "1007412724",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Pelennor\\1007412724\\1007412724.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Rivendell\\42613634\\42613634.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_Rivendell",
+      "bank_id": "42613634",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Rivendell\\42613634\\42613634.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Shire\\2947837516\\2947837516.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_Shire",
+      "bank_id": "2947837516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Shire\\2947837516\\2947837516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Trng\\371830516\\371830516.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_Trng",
+      "bank_id": "371830516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Trng\\371830516\\371830516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Weathertop\\2840916394\\2840916394.bnk",
+      "category": "language",
+      "language": "italian",
+      "bank_name": "VO_Weathertop",
+      "bank_id": "2840916394",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\italian\\VO_Weathertop\\2840916394\\2840916394.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterElf\\4213940363\\4213940363.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterElf",
+      "bank_id": "4213940363",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterElf\\4213940363\\4213940363.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterEvilHuman\\3664300569\\3664300569.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterEvilHuman",
+      "bank_id": "3664300569",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterEvilHuman\\3664300569\\3664300569.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterGondor\\1449891919\\1449891919.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterGondor",
+      "bank_id": "1449891919",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterGondor\\1449891919\\1449891919.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroAragorn\\871361464\\871361464.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroAragorn",
+      "bank_id": "871361464",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroAragorn\\871361464\\871361464.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroBalrog\\23438015\\23438015.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroBalrog",
+      "bank_id": "23438015",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroBalrog\\23438015\\23438015.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroElrond\\2629227852\\2629227852.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroElrond",
+      "bank_id": "2629227852",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroElrond\\2629227852\\2629227852.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroEowyn\\1139077918\\1139077918.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroEowyn",
+      "bank_id": "1139077918",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroEowyn\\1139077918\\1139077918.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2647976406",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroFaramir\\1580398204\\1580398204.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroFaramir",
+      "bank_id": "1580398204",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroFaramir\\1580398204\\1580398204.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroGandalf\\3836382201\\3836382201.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroGandalf",
+      "bank_id": "3836382201",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroGandalf\\3836382201\\3836382201.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroGimli\\3994356840\\3994356840.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroGimli",
+      "bank_id": "3994356840",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroGimli\\3994356840\\3994356840.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroGothmog\\2061718309\\2061718309.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroGothmog",
+      "bank_id": "2061718309",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroGothmog\\2061718309\\2061718309.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroLegolas\\4264085541\\4264085541.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroLegolas",
+      "bank_id": "4264085541",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroLegolas\\4264085541\\4264085541.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroLurtz\\2242630235\\2242630235.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroLurtz",
+      "bank_id": "2242630235",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroLurtz\\2242630235\\2242630235.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroMouth\\1468448805\\1468448805.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroMouth",
+      "bank_id": "1468448805",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroMouth\\1468448805\\1468448805.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroNazgul\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroNazgul",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroNazgul\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroSaruman\\811240109\\811240109.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroSaruman",
+      "bank_id": "811240109",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroSaruman\\811240109\\811240109.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroSauron\\38771874\\38771874.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroSauron",
+      "bank_id": "38771874",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroSauron\\38771874\\38771874.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroTheoden\\2317841293\\2317841293.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroTheoden",
+      "bank_id": "2317841293",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroTheoden\\2317841293\\2317841293.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroWitchKing",
+      "bank_id": "2793186020",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHeroWormtongue",
+      "bank_id": "3921213553",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHobbit\\3171699836\\3171699836.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterHobbit",
+      "bank_id": "3171699836",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterHobbit\\3171699836\\3171699836.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterOrc\\3712186106\\3712186106.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterOrc",
+      "bank_id": "3712186106",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterOrc\\3712186106\\3712186106.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterRohan\\702631914\\702631914.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterRohan",
+      "bank_id": "702631914",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterRohan\\702631914\\702631914.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterUruk\\3202456073\\3202456073.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "ChatterUruk",
+      "bank_id": "3202456073",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\ChatterUruk\\3202456073\\3202456073.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\Level_MountDoom\\1294560980\\1294560980.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "1294560980",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\Level_MountDoom\\1294560980\\1294560980.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\Level_MountDoom\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\Level_MountDoom\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VoiceOver\\4041657371\\4041657371.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VoiceOver",
+      "bank_id": "4041657371",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VoiceOver\\4041657371\\4041657371.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_BlackGates\\3294868892\\3294868892.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_BlackGates",
+      "bank_id": "3294868892",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_BlackGates\\3294868892\\3294868892.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_HelmsDeep\\3309576832\\3309576832.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_HelmsDeep",
+      "bank_id": "3309576832",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_HelmsDeep\\3309576832\\3309576832.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Isengard\\3816387472\\3816387472.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_Isengard",
+      "bank_id": "3816387472",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Isengard\\3816387472\\3816387472.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_MinasMorg\\3497672732\\3497672732.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_MinasMorg",
+      "bank_id": "3497672732",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_MinasMorg\\3497672732\\3497672732.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_MinasTir\\1868043562\\1868043562.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_MinasTir",
+      "bank_id": "1868043562",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_MinasTir\\1868043562\\1868043562.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Moria\\2854391945\\2854391945.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_Moria",
+      "bank_id": "2854391945",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Moria\\2854391945\\2854391945.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_MountDoom\\2316267673\\2316267673.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_MountDoom",
+      "bank_id": "2316267673",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_MountDoom\\2316267673\\2316267673.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Osgiliath\\42175133\\42175133.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_Osgiliath",
+      "bank_id": "42175133",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Osgiliath\\42175133\\42175133.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Pelennor\\1007412724\\1007412724.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_Pelennor",
+      "bank_id": "1007412724",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Pelennor\\1007412724\\1007412724.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Rivendell\\42613634\\42613634.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_Rivendell",
+      "bank_id": "42613634",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Rivendell\\42613634\\42613634.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Shire\\2947837516\\2947837516.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_Shire",
+      "bank_id": "2947837516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Shire\\2947837516\\2947837516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Trng\\371830516\\371830516.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_Trng",
+      "bank_id": "371830516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Trng\\371830516\\371830516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Weathertop\\2840916394\\2840916394.bnk",
+      "category": "language",
+      "language": "russian",
+      "bank_name": "VO_Weathertop",
+      "bank_id": "2840916394",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\russian\\VO_Weathertop\\2840916394\\2840916394.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterElf\\4213940363\\4213940363.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterElf",
+      "bank_id": "4213940363",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterElf\\4213940363\\4213940363.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterEvilHuman\\3664300569\\3664300569.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterEvilHuman",
+      "bank_id": "3664300569",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterEvilHuman\\3664300569\\3664300569.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterGondor\\1449891919\\1449891919.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterGondor",
+      "bank_id": "1449891919",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterGondor\\1449891919\\1449891919.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroAragorn\\871361464\\871361464.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroAragorn",
+      "bank_id": "871361464",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroAragorn\\871361464\\871361464.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroBalrog\\23438015\\23438015.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroBalrog",
+      "bank_id": "23438015",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroBalrog\\23438015\\23438015.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroElrond\\2629227852\\2629227852.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroElrond",
+      "bank_id": "2629227852",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroElrond\\2629227852\\2629227852.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroEowyn\\1139077918\\1139077918.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroEowyn",
+      "bank_id": "1139077918",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroEowyn\\1139077918\\1139077918.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2647976406",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroEvilFrodo\\2647976406\\2647976406.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroEvilFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroEvilFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroFaramir\\1580398204\\1580398204.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroFaramir",
+      "bank_id": "1580398204",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroFaramir\\1580398204\\1580398204.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroFrodo\\2669609192\\2669609192.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroFrodo",
+      "bank_id": "2669609192",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroFrodo\\2669609192\\2669609192.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroGandalf\\3836382201\\3836382201.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroGandalf",
+      "bank_id": "3836382201",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroGandalf\\3836382201\\3836382201.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroGimli\\3994356840\\3994356840.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroGimli",
+      "bank_id": "3994356840",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroGimli\\3994356840\\3994356840.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroGothmog\\2061718309\\2061718309.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroGothmog",
+      "bank_id": "2061718309",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroGothmog\\2061718309\\2061718309.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroLegolas\\4264085541\\4264085541.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroLegolas",
+      "bank_id": "4264085541",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroLegolas\\4264085541\\4264085541.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroLurtz\\2242630235\\2242630235.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroLurtz",
+      "bank_id": "2242630235",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroLurtz\\2242630235\\2242630235.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroMouth\\1468448805\\1468448805.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroMouth",
+      "bank_id": "1468448805",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroMouth\\1468448805\\1468448805.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroNazgul\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroNazgul",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroNazgul\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroSaruman\\811240109\\811240109.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroSaruman",
+      "bank_id": "811240109",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroSaruman\\811240109\\811240109.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroSauron\\38771874\\38771874.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroSauron",
+      "bank_id": "38771874",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroSauron\\38771874\\38771874.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroTheoden\\2317841293\\2317841293.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroTheoden",
+      "bank_id": "2317841293",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroTheoden\\2317841293\\2317841293.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroWitchKing",
+      "bank_id": "2793186020",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroWitchKing\\2793186020\\2793186020.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHeroWormtongue",
+      "bank_id": "3921213553",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHeroWormtongue\\3921213553\\3921213553.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHobbit\\3171699836\\3171699836.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterHobbit",
+      "bank_id": "3171699836",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterHobbit\\3171699836\\3171699836.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterOrc\\3712186106\\3712186106.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterOrc",
+      "bank_id": "3712186106",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterOrc\\3712186106\\3712186106.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterRohan\\702631914\\702631914.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterRohan",
+      "bank_id": "702631914",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterRohan\\702631914\\702631914.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterUruk\\3202456073\\3202456073.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "ChatterUruk",
+      "bank_id": "3202456073",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\ChatterUruk\\3202456073\\3202456073.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\Level_MountDoom\\1294560980\\1294560980.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "1294560980",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\Level_MountDoom\\1294560980\\1294560980.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\Level_MountDoom\\2813273893\\2813273893.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "Level_MountDoom",
+      "bank_id": "2813273893",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\Level_MountDoom\\2813273893\\2813273893.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VoiceOver\\4041657371\\4041657371.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VoiceOver",
+      "bank_id": "4041657371",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VoiceOver\\4041657371\\4041657371.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_BlackGates\\3294868892\\3294868892.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_BlackGates",
+      "bank_id": "3294868892",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_BlackGates\\3294868892\\3294868892.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_HelmsDeep\\3309576832\\3309576832.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_HelmsDeep",
+      "bank_id": "3309576832",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_HelmsDeep\\3309576832\\3309576832.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Isengard\\3816387472\\3816387472.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_Isengard",
+      "bank_id": "3816387472",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Isengard\\3816387472\\3816387472.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_MinasMorg\\3497672732\\3497672732.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_MinasMorg",
+      "bank_id": "3497672732",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_MinasMorg\\3497672732\\3497672732.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_MinasTir\\1868043562\\1868043562.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_MinasTir",
+      "bank_id": "1868043562",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_MinasTir\\1868043562\\1868043562.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Moria\\2854391945\\2854391945.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_Moria",
+      "bank_id": "2854391945",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Moria\\2854391945\\2854391945.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_MountDoom\\2316267673\\2316267673.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_MountDoom",
+      "bank_id": "2316267673",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_MountDoom\\2316267673\\2316267673.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Osgiliath\\42175133\\42175133.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_Osgiliath",
+      "bank_id": "42175133",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Osgiliath\\42175133\\42175133.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Pelennor\\1007412724\\1007412724.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_Pelennor",
+      "bank_id": "1007412724",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Pelennor\\1007412724\\1007412724.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Rivendell\\42613634\\42613634.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_Rivendell",
+      "bank_id": "42613634",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Rivendell\\42613634\\42613634.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Shire\\2947837516\\2947837516.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_Shire",
+      "bank_id": "2947837516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Shire\\2947837516\\2947837516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Trng\\371830516\\371830516.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_Trng",
+      "bank_id": "371830516",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Trng\\371830516\\371830516.bnk.xml"
+    },
+    {
+      "path": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Weathertop\\2840916394\\2840916394.bnk",
+      "category": "language",
+      "language": "spanish_spain_",
+      "bank_name": "VO_Weathertop",
+      "bank_id": "2840916394",
+      "status": "success",
+      "detail": "C:\\Users\\Yusuf\\Desktop\\Code\\ConquestConsole\\wwiseRE\\Organized_Final_AllLanguages\\Languages\\spanish_spain_\\VO_Weathertop\\2840916394\\2840916394.bnk.xml"
+    }
+  ]
+}
